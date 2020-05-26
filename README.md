@@ -13,7 +13,8 @@ https://iostindex.com/?filter0ButtplugSupport=1
 
 1. 事前準備
 
-- しばりすのインストール
+- [ここ](https://github.com/amateras977/COM3D2.ToySynchronizer.Plugin/releases)から最新のプラグインをダウンロードしてください
+- しばりす2のインストールが必要です。ここでは手順を省略します。
 - Bluetooth4.0以上(BLE)に接続できるPC
   - BLE経由での接続のみに対応しています
 
