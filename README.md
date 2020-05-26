@@ -1,7 +1,6 @@
-CM3D2.ToySynchronizer.Plugin 0.0.0.1
-COM3D2.ToySynchronizer.Plugin 0.0.0.1
+# CM3D2.ToySynchronizer.Plugin / COM3D2.ToySynchronizer.Plugin
 
-# 概要
+## 概要
 
 各種大人の玩具をカスタムメイド3D2とカスタムオーダーメイド3D2に連動させるプラグインです
 
@@ -10,7 +9,7 @@ https://iostindex.com/?filter0ButtplugSupport=1
 
 上記に記載はありませんが、作者の動作確認にはVorze A10Pistonを利用しています。
 
-# 使い方
+## 使い方
 
 1. 事前準備
 
@@ -29,9 +28,9 @@ COM3D2ディレクトリ: カスタムオーダーメイド3D2用
 6. カスタムメイド3D2/カスタムオーダーメイド3D2を起動してください
 7. BroadCastServer.exeのウィンドウに、Connection Opened.と表示されれば接続完了です。対応シーン(夜伽等)を実行すると、自動で連動します。
 
-## 使い方補足
+### 使い方補足
 
-### 設定ファイル
+#### 設定ファイル
 
 一度カスタムメイド3D2/カスタムオーダーメイド3D2を起動すると、Sybaris\Plugins\UnityInjector\Config直下にtoysynchronizer.iniが生成されます
 好みに応じて設定を変更してください。
@@ -49,7 +48,7 @@ COM3D2ディレクトリ: カスタムオーダーメイド3D2用
 
 
 
-# 注意事項
+## 注意事項
 
 このMODの利用者は、本項の注意事項に同意の上でご利用ください
 
@@ -57,11 +56,11 @@ COM3D2ディレクトリ: カスタムオーダーメイド3D2用
   - プログラムの性質上、実機を用いたテストが不十分です。基本的にハードウェア負荷を考慮しない実装になっていることをご承知おき下さい。
   - 利用時におもちゃから異音や発熱がする場合は、接続を切断しただちに利用を停止することを推奨します。ご主人様のおもちゃがホットドックになったという報告が作者の元に届かないことを祈るばかりです。
 
-## KISS様公式のMOD規約
+### KISS様公式のMOD規約
 
 下記の規約にも従ってください
 
-### CM3D2.ToySynchronizer.Pluginを使用する方へ
+#### CM3D2.ToySynchronizer.Pluginを使用する方へ
 
 - ※MODはKISSサポート対象外です。
 - ※MODを利用するに当たり、問題が発生してもKISSは一切の責任を負いかねます。
@@ -69,7 +68,7 @@ COM3D2ディレクトリ: カスタムオーダーメイド3D2用
 - ※「カスタムメイド3D2」又は「カスタムオーダーメイド3D2」上で表示する目的以外の利用は禁止します。
 - ※これらの事項は http://kisskiss.tv/kiss/diary.php?no=558 を優先します。
 
-### COM3D2.ToySynchronizer.Pluginを使用する方へ
+#### COM3D2.ToySynchronizer.Pluginを使用する方へ
 
 - ※MODはKISSサポート対象外です。
 - ※MODを利用するに当たり、問題が発生してもKISSは一切の責任を負いかねます。
